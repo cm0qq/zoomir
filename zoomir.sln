@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zoomir", "zoomir\zoomir.csproj", "{F14FAD56-B98C-4FE8-9CC2-FAB31CF6DB4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F14FAD56-B98C-4FE8-9CC2-FAB31CF6DB4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F14FAD56-B98C-4FE8-9CC2-FAB31CF6DB4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F14FAD56-B98C-4FE8-9CC2-FAB31CF6DB4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F14FAD56-B98C-4FE8-9CC2-FAB31CF6DB4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47B8E129-F98A-469D-97C5-7902786437AF}
+	EndGlobalSection
+EndGlobal
